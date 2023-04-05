@@ -1,0 +1,34 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Sebastian Spaink'
+theme = "hugo-coder"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = true
+
+[params]
+  author = "Sebastian Spaink"
+  info = "Making things with code and glue"
+  description = "Personal blog of Sebastian Spaink (sspaink). Sharing adventures about Coding and Crafting."
+  keywords = "blog,developer,personal"
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
