@@ -55,4 +55,4 @@ From context clues it is fairly straightforward but I did find this a little bit
 
 ## Final words
 
-I do wonder if there are any funny use cases for this tool in a hobby context. Is there any reason to setup OPA on a raspberry pi? Are there any silly use cases for it, could you make a game with it?
+I do wonder if there are any funny use cases for this tool in a hobby context. Is there any reason to setup OPA on a raspberry pi? Could you make a text based game with it?
