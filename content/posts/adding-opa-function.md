@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = 2023-09-14T00:42:07-05:00
 title = "Adding a built-in function to OPA"
 description = ""
