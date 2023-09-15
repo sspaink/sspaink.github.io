@@ -15,7 +15,7 @@ series = []
 
 I've been using the tool [Open Policy Agent](https://github.com/open-policy-agent/opa) at work. Everyone refers to the project using the acronym OPA. I'm Dutch, and opa means grandpa. It's a bit funny to hear it in sentences like "have we deployed the latest version of opa". Evidently it is also a [common expression in the mediterranean](https://en.wikipedia.org/wiki/Opa_(expression))? The more you know 🌈
 
-I was able to make a contribution to OPA. I added [a new built-in function to the project](https://github.com/open-policy-agent/opa/pull/6187). I had a positive experience  contributing, the documentation was great and the maintainers were friendly and quick to respond. The new built-in function I added, [numbers.range_step](https://www.openpolicyagent.org/docs/latest/policy-reference/#builtin-numbers-numbersrange_step), even got released already in [v0.56.0](https://github.com/open-policy-agent/opa/releases/tag/v0.56.0):smile:.
+I was able to make a contribution to OPA. I added [a new built-in function to the project](https://github.com/open-policy-agent/opa/pull/6187). I had a positive experience  contributing, the documentation was great and the maintainers were friendly and quick to respond. The new built-in function I added, [numbers.range_step](https://www.openpolicyagent.org/docs/latest/policy-reference/#builtin-numbers-numbersrange_step), even got released already in [v0.56.0](https://github.com/open-policy-agent/opa/releases/tag/v0.56.0) 😄.
 
 In this post I wanted to extend [the existing documentation on how to add a built-in function](https://www.openpolicyagent.org/docs/latest/contrib-adding-builtin-functions/) with my experience.
 
