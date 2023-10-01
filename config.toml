@@ -10,12 +10,30 @@ theme = "hugo-coder"
 
 [params]
   author = "Sebastian Spaink"
-  info = "Making things with code and glue"
+  info = "Everyday is a holiday"
   description = "Personal blog of Sebastian Spaink (sspaink). Sharing adventures about Coding and Crafting."
   keywords = "blog,developer,personal"
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/sspaink/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/sebastianspaink/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-paint-brush"
+weight = 3
+url = "https://www.printables.com/@battlebas_380607"
 
 [taxonomies]
   category = "categories"
