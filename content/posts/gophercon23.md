@@ -8,10 +8,10 @@ tags: ['gophercon', 'go']
 ![gopher plushie](/gophercon23/plushie.jpg "plushie")
 
 > Gophercon is a conference for people excited to learn and create, it just so happens Go makes it easy to do just that.
-    
+
 I was lucky enough to visit San Diego and attend Gophercon again this year. I had a great experience, got to listen to some interesting talks and interact with lots of smart people. Seeing the excitement and energy people have while discussing projects they have been working on is inspiring. I do think my biggest takeaway from attending is a renewed energy and motivation to continue learning new things, start new projects and revive dead ones.
 
-There was a lightening talk given by [Benjamin Bryant](https://www.linkedin.com/in/benjamin-bryant-dev/) titled `The Blueprints to Building Your Own Badass Community`. It was on how he revived the London Go meetup and gave tips on how to do something similar based on his experience. There aren't any Go meetup groups in my area, seems the closet one would the one in [Saint Louis](https://www.meetup.com/stl-go/) which could be fun to attend in the future.
+There was a lightening talk given by [Benjamin Bryant](https://www.linkedin.com/in/benjamin-bryant-dev/) titled `The Blueprints to Building Your Own Badass Community`. It was on how he revived the London Go meetup and gave tips on how to do something similar based on his experience. There aren't any Go meetup groups in my area, seems the closet one is in [Saint Louis](https://www.meetup.com/stl-go/) which could be fun to attend in the future.
 
 I've found the lightening talks are always worth attending. The time constraint seems to help the speaker create a concise and straight to the point talk. Another memorable lightening talk was titled `Can ChatGPT Do My Job?` presented by [Michael Richman](https://www.linkedin.com/in/michael-richman-b7807b2/) was an entertaining case study on trying to write a program using ChatGPT, ending with a lot of apologizing from ChatGPT. Luckily it seems our jobs are safe, although it is very impressive to see what it was able to create with the simple prompts ChatGPT was given.
 
@@ -29,6 +29,6 @@ The tool [govulncheck](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck) was
 
 ---
 
-It was a great week, although definitely happy to be back home. My social battery has been completely depleted. Next years Gophercon will be back in Chicago sometime in July. I would love to visit the [Chicago Field Museum](https://www.fieldmuseum.org/) again, so many cool dinosaur skeletons. 
+It was a great week, although definitely happy to be back home. My social battery has been completely depleted. Next years Gophercon will be back in Chicago sometime in July. I would love to visit the [Chicago Field Museum](https://www.fieldmuseum.org/) again, so many cool dinosaur skeletons.
 
 ![gopher plushie](/gophercon23/plushie_home.jpg "plushie")
