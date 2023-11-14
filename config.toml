@@ -4,18 +4,18 @@ title = 'Sebastian Spaink'
 theme = "hugo-coder"
 
 [markup]
-  [markup.highlight]
-    style = "monokai"
-    lineNos = true
+[markup.highlight]
+style = "monokai"
+lineNos = true
 
 [params]
-  author = "Sebastian Spaink"
-  info = "Everyday is a holiday"
-  description = "Personal blog of Sebastian Spaink (sspaink). Sharing adventures about Coding and Crafting."
-  keywords = "blog,developer,personal"
+author = "Sebastian Spaink"
+info = "Everyday is a holiday"
+description = "Personal blog of Sebastian Spaink (sspaink). Sharing adventures about Coding and Crafting."
+keywords = "blog,developer,personal"
 
-  colorScheme = "auto"
-  hidecolorschemetoggle = false
+colorScheme = "auto"
+hidecolorschemetoggle = false
 
 [[params.social]]
 name = "Github"
@@ -31,22 +31,28 @@ url = "https://www.linkedin.com/in/sebastianspaink/"
 
 [[params.social]]
 name = "LinkedIn"
-icon = "fa fa-2x fa-paint-brush"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://www.instagram.com/thebattlebas/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-print"
 weight = 3
 url = "https://www.printables.com/@battlebas_380607"
 
 [taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+name = "Blog"
+weight = 1
+url = "posts/"
 [[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+name = "About"
+weight = 2
+url = "about/"
